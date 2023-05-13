@@ -1,16 +1,16 @@
 ### Olá, tudo bem? 👋
 
-<!--
-**naxolone/naxolone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sejam Bem-Vindo ao meu Perfil!
 
-Here are some ideas to get you started:
+Meu nome é ### José Filho
 
-- 🔭 I’m currently working on Nothing yet
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on Nothing yet
-- 🤔 I’m looking for help with Learning Python
-- 💬 Ask me about Music
-- 📫 How to reach me: Eu não sei
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Estou a 3 apertos de mão do grande vocalisa do Megadeth, uma banda americana.
+Aqui está algumas informações sobre mim:
+
+- 🔭 Não estou trabalhando em nada atualmente!
+- 🌱 Atualmente estou aprendendo Python
+- 👯 Não estou procurano colaborar com alguém, pois não tenho conhecimento.
+- 🤔 Estou procurando ajuda para aprender Python!
+- 🎵 Gosto Músical: Rock e Rap
+- 😄 Pronomes: Ele/Dele
+- ⚡ Curiosidade: Estou a 3 apertos de mão do grande vocalisa do Megadeth, uma banda americana.
 -->
