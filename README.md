@@ -12,5 +12,5 @@ Aqui está algumas informações sobre mim:
 - 🤔 Estou procurando ajuda para aprender Python!
 - 🎵 Gosto Músical: Rock e Rap
 - 😄 Pronomes: Ele/Dele
-- ⚡ Curiosidade: Estou a 3 apertos de mão do grande vocalisa do Megadeth, uma banda americana.
+- ⚡ Curiosidade: Estou a 3 apertos de mão do grande vocalista do Megadeth, uma banda americana.
 -->
