@@ -8,7 +8,7 @@ Aqui está algumas informações sobre mim:
 
 - 🔭 Não estou trabalhando em nada atualmente!
 - 🌱 Atualmente estou aprendendo Python
-- 👯 Não estou procurano colaborar com alguém, pois não tenho conhecimento.
+- 👯 Não estou procurando colaborar com alguém, pois não tenho conhecimento.
 - 🤔 Estou procurando ajuda para aprender Python!
 - 🎵 Gosto Músical: Rock e Rap
 - 😄 Pronomes: Ele/Dele
