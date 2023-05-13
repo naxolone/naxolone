@@ -2,7 +2,7 @@
 
 ### Sejam Bem-Vindo ao meu Perfil!
 
-Meu nome é ### José Filho
+Meu nome é José Filho
 
 Aqui está algumas informações sobre mim:
 
